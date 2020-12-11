@@ -74,7 +74,7 @@
                             <!-- Run only tests whose name end with "UnitTest" -->
                             <includes>
                                 <include>**/*UnitTest.java</include>
-                                <includeinclude>**/*IntegrationTest.java</include>
+                                <include>**/*IntegrationTest.java</include>
                             </includes>
                         </configuration>
                     </plugin>
